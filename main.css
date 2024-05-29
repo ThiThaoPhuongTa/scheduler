@@ -1,0 +1,8 @@
+.busy{
+    background-color: orangered;
+    color: transparent;
+}
+.free {
+    background-color: green;
+    color: transparent;
+}
